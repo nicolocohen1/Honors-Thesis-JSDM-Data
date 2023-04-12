@@ -1,0 +1,33 @@
+species,full name,Rhodophyta,Chlorophyta,Phaeophyta,Seasonality Reported,Western Atlantic Range Reported,Northern Latitude,Southern Latitude,Year Round,Stature,Erect,Prostrate,Small,Medium,Large,Periodicity,Perennial,Pseudo_perennial,Aseasonal_annual,Seasonal_annual
+AMPBEA,Amphiroa beauvoisii (AMPBEA),1,0,0,Year Round,"Uruguay - NC, USA",36,-35,1,E M,1,0,0,1,0,Per,1,0,0,0
+ARTIC,Articulated coralline (ARTIC),1,0,0,Year Round,"Brazil - NC, USA",36,-34,1,E S,1,0,1,0,0,Per,1,0,0,0
+BOTOCI,Botryocladia occidentalis (BOTOCI),1,0,0,Year Round,"Brazil - NC, USA",36,-34,1,E M,1,0,0,1,0,AA,0,0,1,0
+CHALOM,Champia Lomentaria (CHALOM),1,0,0,May-Dec,"GA, USA - NC, USA",36,31,0,E S (mostly),1,0,1,0,0,SA,0,0,0,1
+CHRENT,Chrysomenia enteromorpha (CHRENT),1,0,0,May-Sep,"Brazil - NC, USA",36,-34,0,E L,1,0,0,0,1,SA,0,0,0,1
+CLAPRO,Cladophora prolifera (CLAPRO),0,1,0,May-Dec,"Brazil - NC, USA",36,-34,0,E S,1,0,1,0,0,SA,0,0,0,1
+CODCAR,Codium carolineanum (CODCAR),0,1,0,Year Round,"Puerto Rico - NC, USA",36,18,1,P L,0,1,0,0,1,Per,1,0,0,0
+COLSIN,Colpomenia sinuosa (COLSIN),0,0,1,May-Sep,"Brazil - NC, USA",36,-34,0,E M,1,0,0,1,0,SA,0,0,0,1
+CRUST,Crustose coralline Peyssonnelia (CRUST),1,0,0,Year Round / Jun-Aug,"Caribbean - NC, USA / Brazil - NC, USA",36,-34,1,P M,0,1,0,1,0,Per,1,0,0,0
+DIOPTR,Dictyopteris species (DIOPTR),0,0,1,Mar-Dec,"Venezuela - NC, USA",36,9,0,E L,1,0,0,0,1,SA,0,0,0,1
+DICSP,Dictyota species (DICSP),0,0,1,May-Oct,"Brazil - NC, USA",36,-34,0,E M,1,0,0,1,0,SA,0,0,0,1
+CODERC,erect Codium species (CODERC),0,1,0,Year Round,"Brazil - NC, USA",36,-34,1,E M,1,0,0,1,0,AA,0,0,1,0
+EUCISI,Eucheuma isiformis (EUCISI),1,0,0,Jun-Sep,"FL, USA - NC, USA",36,25,0,E L,1,0,0,0,1,SA,0,0,0,1
+FILRED,filamentous red algae (FILRED),1,0,0,NA,NA,NA,NA,NA,,0,0,0,0,0,NA,0,0,0,0
+FUZBRO,fuzzy brown Hinksia species (FUZBRO),0,0,1,NA,NA,NA,NA,NA,,0,0,0,0,0,NA,0,0,0,0
+FUZGRE,fuzzy green algae (FUZGRE),0,1,0,NA,NA,NA,NA,NA,,0,0,0,0,0,NA,0,0,0,0
+GALOBT,Galaxaura obtusata (GALOBT),1,0,0,May-Nov,"Brazil - NC, USA",36,-34,0,E M,1,0,0,1,0,SA,0,0,0,1
+GOORED,gooey red algae (GOORED),1,0,0,Jun-Sep,"Caribbean - NC, USA",36,9,0,E M (mostly) to E L,1,0,0,1,0,SA,0,0,0,1
+LOBVAR,Lobophora variegata (LOBVAR),0,0,1,Year Round,"Brazil - NC, USA",36,-34,1,**P M to P L (multiple overlapping specimens),0,1,0,1,0,Per,1,0,0,0
+PALCOR,Palisada corallopsis (PALCOR),1,0,0,Apr - Dec,"Caribbean - NC, USA",36,9,0,E M,1,0,0,1,0,SA,0,0,0,1
+RHOGRA,Rhodymenia pseu Gracilaria mamm (RHOGRA),1,0,0,Year Round,"Brazil - NC, USA",36,-34,1,**E M to E S,1,0,0,1,0,AA,0,0,1,0
+SARFIL,Sargassum filipendula (SARFIL),0,0,1,Year Round,"FL, USA - MA, USA",43,25,1,**E L (in season) to E S (out season),1,0,0,0,1,Pp,0,1,0,0
+SOLFIL,Solieria filiformis (SOLFIL),1,0,0,Year Round,"Brazil - NC, USA",36,-34,1,**E L to E M,1,0,0,0,1,AA,0,0,1,0
+SPOPEN,Sporochnus pedunculatus (SPOPEN),0,0,1,Jun - Nov,"Brazil - NC, USA",36,-34,0,**E M to E L,1,0,0,1,0,SA,0,0,0,1
+STRAPR,strap blade red algae (STRAPR),1,0,0,NA,NA,NA,NA,NA,,0,0,0,0,0,NA,0,0,0,0
+TUBRED,tubular red algae (TUBRED),1,0,0,Jun -Nov,"Brazil - NC, USA",36,-34,0,**E M to E L,1,0,0,1,0,SA,0,0,0,1
+TURF,turf or filamentous (TURF),0,0,0,NA,NA,NA,NA,NA,,0,0,0,0,0,NA,0,0,0,0
+UDOCYA,Udotea cyathiformis (UDOCYA),0,1,0,May-Nov,"Brazil - NC, USA",36,-34,0,E M,1,0,0,1,0,SA,0,0,0,1
+UNGRE,Unknown green algae (UNGRE),0,1,0,NA,NA,NA,NA,NA,,0,0,0,0,0,NA,0,0,0,0
+UNRED,Unknown red algae (UNRED),1,0,0,NA,NA,NA,NA,NA,,0,0,0,0,0,NA,0,0,0,0
+HALYSP,wide blade Halymenia sp. (HALYSP),1,0,0,Jun- - Aug,"Brazil - NC, USA",36,-34,0,E L,1,0,0,0,1,SA,0,0,0,1
+ZONPAD,Zonaria tournefortii Padina sp (ZONPAD),0,0,1,May - Dec,"Brazil - NC, USA",36,-34,0,**E M to E L (in season); E S (out season),1,0,0,1,0,Pp,0,1,0,0
